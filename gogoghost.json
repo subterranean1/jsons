@@ -1,0 +1,22 @@
+{
+  "asset": "GOGOGHOST",
+  "name": "GOGOGHOST",
+  "pgpsig": "subterranean",
+  "description": "",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://github.com/subterranean1/images/blob/main/GOGOGHOST-thumb.png"
+    },
+    {
+      "type": "large",
+      "data": "https://github.com/subterranean1/images/blob/main/GOGOGHOST.gif"
+    }
+  ],
+  "social": [
+    {
+      "type": "twitter",
+      "data": "https://x.com/subterranean_1"
+}
+  ]
+}
