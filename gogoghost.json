@@ -6,11 +6,11 @@
   "images": [
     {
       "type": "icon",
-      "data": "https://github.com/subterranean1/images/blob/b448474a350e24ad0425548b61f9e3c01c8a93ce/GOGOGHOST-thumb.png"
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/GOGOGHOST-thumb.png"
     },
     {
       "type": "large",
-      "data": "https://github.com/subterranean1/images/blob/b448474a350e24ad0425548b61f9e3c01c8a93ce/GOGOGHOST.gif"
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/GOGOGHOST.gif"
     }
   ],
   "social": [
