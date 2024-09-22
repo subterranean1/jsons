@@ -1,0 +1,22 @@
+{
+  "asset": "PEPESHOOD",
+  "name": "PEPESHOOD",
+  "pgpsig": "subterranean",
+  "description": "",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/PEPESHOOD%20thumb.png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/PEPESHOOD%20without%20shoe%20in%20bot%20left.jpg"
+    }
+  ],
+  "social": [
+    {
+      "type": "twitter",
+      "data": "https://x.com/subterranean_1"
+}
+  ]
+}
