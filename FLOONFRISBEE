@@ -1,1 +1,22 @@
-
+{
+  "asset": "FLOONFRISBEE",
+  "name": "FLOONFRISBEE",
+  "pgpsig": "subterranean",
+  "description": "",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/FLOONFRISBEE-thumb.png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/FLOONFRISBEE.gif"
+    }
+  ],
+  "social": [
+    {
+      "type": "twitter",
+      "data": "https://x.com/subterranean_1"
+}
+  ]
+}
