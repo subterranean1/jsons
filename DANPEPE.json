@@ -1,0 +1,22 @@
+{
+  "asset": "DANPEPE",
+  "name": "DANPEPE",
+  "pgpsig": "subterranean",
+  "description": "@droplister LARPING as Young Lean on the Hellmoney Podcast",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/GOGOGHOST-thumb.png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/GOGOGHOST.gif"
+    }
+  ],
+  "social": [
+    {
+      "type": "twitter",
+      "data": "https://x.com/subterranean_1"
+}
+  ]
+}
