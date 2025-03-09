@@ -11,6 +11,10 @@
     {
       "type": "large",
       "data": "https://arweave.net/XM6w8wdtEIL3ApeLTy1rdRbh8jgTrEpf2oETQ6LrgAE/danleanpepe.gif"
+    },
+    {
+      "type": "hq_image",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/DANPEPE.jpg"
     }
   ],
   "social": [
