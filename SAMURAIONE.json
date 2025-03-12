@@ -1,0 +1,26 @@
+{
+  "asset": "SAMURAIONE",
+  "name": "SAMURAIONE",
+  "pgpsig": "Amy DiGi",
+  "description": "Samurai One from The Seven Samurai Collection",
+  "images": [
+    {
+      "type": "icon",
+      "data": " https://raw.githubusercontent.com/subterranean1/images/main/01_Thumb.png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/01_Card.png"
+    },
+    {
+      "type": "hq_image",
+      "data": "https://arweave.net/rkb11GY0xzRJUoDt7O1RXUG0UkYxFr7QIkdD-KrQsb4/samauraione.png"
+    }
+  ],
+  "social": [
+    {
+      "type": "X",
+      "data": " https://x.com/AmyDiGi "
+}
+  ]
+}
