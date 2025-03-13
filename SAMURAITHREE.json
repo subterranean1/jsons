@@ -1,0 +1,26 @@
+{
+  "asset": "SAMURAITHREE",
+  "name": "SAMURAITHREE",
+  "pgpsig": "Amy DiGi",
+  "description": "Samurai Three from The Seven Samurai Collection",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/03_Thumb.png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/03_Card.png"
+    },
+    {
+      "type": "hq_image",
+      "data": "https://arweave.net/vhXp9GfvBPN6nxOQenzqLccZ7JZBnbfnBd_wDXXh1Os/samauraithree.png"
+    }
+  ],
+  "social": [
+    {
+      "type": "X",
+      "data": "https://x.com/AmyDiGi"
+}
+  ]
+}
