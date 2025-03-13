@@ -1,0 +1,26 @@
+{
+  "asset": "SAMURAISIX",
+  "name": "SAMURAISIX",
+  "pgpsig": "Amy DiGi",
+  "description": "Samurai Six from The Seven Samurai Collection",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/06_Thumb.png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/06_Card.png"
+    },
+    {
+      "type": "hq_image",
+      "data": "https://arweave.net/bhzSfN0TldrRtAxuV9WKlHpwxJPjwfWTBHw23LMxjfk/samauraisix.png"
+    }
+  ],
+  "social": [
+    {
+      "type": "X",
+      "data": "https://x.com/AmyDiGi"
+}
+  ]
+}
