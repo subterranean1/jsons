@@ -1,0 +1,26 @@
+{
+  "asset": "SAMURAIFOUR",
+  "name": "SAMURAIFOUR",
+  "pgpsig": "Amy DiGi",
+  "description": "Samurai Four from The Seven Samurai Collection",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/04_Thumb.png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/04_Card.png"
+    },
+    {
+      "type": "hq_image",
+      "data": "https://arweave.net/HtB9c9BO9OEZUZCS3ppy4_EHAeRr4aYuMfAINO3ZxtY/samauraifour.png"
+    }
+  ],
+  "social": [
+    {
+      "type": "X",
+      "data": "https://x.com/AmyDiGi"
+}
+  ]
+}
