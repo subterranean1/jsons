@@ -1,0 +1,26 @@
+{
+  "asset": "SAMURAITWO",
+  "name": "SAMURAITWO",
+  "pgpsig": "Amy DiGi",
+  "description": "Samurai Two from The Seven Samurai Collection",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/02_Thumb.png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/02_Card.png"
+    },
+    {
+      "type": "hq_image",
+      "data": "https://arweave.net/bBdC-U6RWDbma7IbwrefbpRsUcM3ro2YWs_zKc61O6E/samauraitwo.png"
+    }
+  ],
+  "social": [
+    {
+      "type": "X",
+      "data": "https://x.com/AmyDiGi"
+}
+  ]
+}
