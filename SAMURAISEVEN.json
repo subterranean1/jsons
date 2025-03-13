@@ -1,0 +1,26 @@
+{
+  "asset": "SAMURAISEVEN",
+  "name": "SAMURAISEVEN",
+  "pgpsig": "Amy DiGi",
+  "description": "Samurai Seven from The Seven Samurai Collection",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/07_Thumb.png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/07_Card.png"
+    },
+    {
+      "type": "hq_image",
+      "data": "https://arweave.net/aq_qHsQL9RgXwxlaofcFx7oawPj7PDKosEeaZ2obApM/samauraiseven.png"
+    }
+  ],
+  "social": [
+    {
+      "type": "X",
+      "data": "https://x.com/AmyDiGi"
+}
+  ]
+}
