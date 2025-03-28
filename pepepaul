@@ -6,11 +6,11 @@
     "images": [
         {
             "type": "icon",
-            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/PEPEPAULTHUMB.png"
+            "data": "https://raw.githubusercontent.com/subterranean1/images/main/PEPEPAULTHUMB.png"
         },
         {
             "type": "large",
-            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/PEPEPAUL.gif"
+            "data": "https://raw.githubusercontent.com/subterranean1/images/main/PEPEPAUL.gif"
         }
     ],
     "social": [
