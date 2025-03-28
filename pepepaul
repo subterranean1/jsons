@@ -1,0 +1,22 @@
+{
+    "asset": "PEPEPAUL",
+    "name": "PEPEPAUL",
+    "pgpsig": "subterranean",
+    "description": "",
+    "images": [
+        {
+            "type": "icon",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/PEPEPAULTHUMB.png"
+        },
+        {
+            "type": "large",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/PEPEPAUL.gif"
+        }
+    ],
+    "social": [
+        {
+            "type": "X",
+            "data": "https://x.com/subterranean_1"
+        }
+    ]
+}
