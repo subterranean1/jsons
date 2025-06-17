@@ -1,0 +1,26 @@
+{
+    "asset": "RARESTSETS.The_Rarest_Tote",
+    "name": "RARESTSETS.The_Rarest_Tote",
+    "pgpsig": "subterranean x Amy DiGi",
+    "description": "",
+    "images": [
+        {
+            "type": "icon",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/main/PEPEPAULTHUMB.png"
+        },
+        {
+            "type": "large",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/main/PEPEPAUL.gif"
+        }
+    ],
+    "social": [
+        {
+            "type": "X",
+            "data": "https://x.com/subterranean_1"
+        },
+      {
+            "type": "X",
+            "data": "https://x.com/AmyDiGi"
+        }
+    ]
+}
