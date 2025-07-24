@@ -1,0 +1,22 @@
+{
+    "asset": "COCODILE.tears",
+    "name": "COCODILE.tears",
+    "pgpsig": "subterranean",
+    "description": "Big Cocos Don't Cry",
+    "images": [
+        {
+            "type": "icon",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/COCODILE.tears_thumb.png"
+        },
+        {
+            "type": "large",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/S03%20C15%20-%20COCODILE.tears.png"
+        }
+    ],
+    "social": [
+        {
+            "type": "twitter",
+            "data": "https://x.com/subterranean_1"
+        }
+    ]
+}
