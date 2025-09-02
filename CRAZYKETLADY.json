@@ -1,0 +1,22 @@
+{
+    "asset": "CRAZYKETLADY",
+    "name": "CRAZYKETLADY",
+    "pgpsig": "subterranean",
+    "description": "",
+    "images": [
+        {
+            "type": "icon",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/thumb.png"
+        },
+        {
+            "type": "large",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/CRAZYKETLADY.gif"
+        }
+    ],
+    "social": [
+        {
+            "type": "X",
+            "data": "https://x.com/subterranean_1"
+        }
+    ]
+}
