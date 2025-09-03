@@ -1,9 +1,11 @@
 {
+    "success": true,
     "asset": "CRAZYKETLADY",
-    "name": "CRAZYKETLADY",
-    "pgpsig": "subterranean",
-    "description": "",
     "image": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/thumb.png",
+    "image_title": "",
+    "description": "    ",
+    "pgpsig": "subterranean",
     "image_large": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/CRAZYKETLADY3.gif",
     "website_social_X": "https://x.com/subterranean_1"
 }
+
