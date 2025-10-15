@@ -1,0 +1,34 @@
+{
+    "asset": "LORELESSON",
+    "name": "LORELESSON",
+    "pgpsig": "subterranean",
+    "description": "Official Rare Pepe Lore Lesson™ Card",
+    "images": [
+        {
+            "type": "image",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/LORELESSON_THUMB.png"
+        },
+        {
+            "type": "large",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/LORELESSON4.gif"
+        },
+      {
+            "type": "Reference Image 1",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/Reference%201.gif"
+        },
+      {
+            "type": "Reference Image 2",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/Reference%202.jpg"
+        },
+      {
+            "type": "Reference Image 3",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/Reference%203.jpg"
+        }
+    ],
+    "social": [
+        {
+            "type": "X",
+            "data": "https://x.com/subterranean_1"
+        }
+    ]
+}
