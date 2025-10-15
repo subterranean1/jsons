@@ -5,7 +5,7 @@
     "description": "Official Rare Pepe Lore Lesson™ Card",
     "images": [
         {
-            "type": "image",
+            "type": "icon",
             "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/LORELESSON_THUMB.png"
         },
         {
