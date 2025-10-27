@@ -1,26 +1,9 @@
 {
     "asset": "ENDSUMMERPEP",
-    "name": "ENDSUMMERPEP",
-    "pgpsig": "Amy DiGi",
+    "image": "https://raw.githubusercontent.com/subterranean1/images/main/ENDSUMMERPEP_thumb.png",
     "description": "In Search of the Perfect Pepe",
-    "images": [
-        {
-            "type": "icon",
-            "data": "https://raw.githubusercontent.com/subterranean1/images/main/ENDSUMMERPEP_thumb.png"
-        },
-        {
-            "type": "large",
-            "data": "https://raw.githubusercontent.com/subterranean1/images/main/ENDSUMMERPEP.png"
-        },
-        {
-            "type": "hq_image",
-            "data": "https://arweave.net/RMpkwhrlQ19CGhmmN9Sl_PemnV_GhEcg0xIzB0aK_1s/samauraifive.png"
-        }
-    ],
-    "social": [
-        {
-            "type": "X",
-            "data": "https://x.com/AmyDiGi"
-        }
-    ]
-}
+    "pgpsig": "Amy DiGi",
+    "name": "ENDSUMMERPEP",
+    "website_social_X": "https://x.com/AmyDiGi",
+    "image_large": "https://raw.githubusercontent.com/subterranean1/images/main/ENDSUMMERPEP.png"
+    }
