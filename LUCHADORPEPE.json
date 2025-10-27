@@ -4,6 +4,11 @@
     "description": "El Héroe Verde del Meme-verso!",
     "pgpsig": "Amy DiGi",
     "name": "LUCHADORPEPE",
-    "website_social_X": "https://x.com/AmyDiGi",
-    "image_large": "https://raw.githubusercontent.com/subterranean1/images/main/LUCHADORPEPE.png"
+    "social": [
+        {
+            "type": "twitter",
+            "data": "https://x.com/AmyDiGi"
+        }
+    ],
+       "image_large": "https://raw.githubusercontent.com/subterranean1/images/main/LUCHADORPEPE.png"
     }
