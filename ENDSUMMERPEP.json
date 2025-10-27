@@ -4,6 +4,11 @@
     "description": "In Search of the Perfect Pepe",
     "pgpsig": "Amy DiGi",
     "name": "ENDSUMMERPEP",
-    "website_social_X": "https://x.com/AmyDiGi",
+    "social": [
+        {
+            "type": "twitter",
+            "data": "https://x.com/AmyDiGi"
+        }
+    ],
     "image_large": "https://raw.githubusercontent.com/subterranean1/images/main/ENDSUMMERPEP.png"
-    }
+}
