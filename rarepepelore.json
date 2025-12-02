@@ -1,18 +1,10 @@
 {
     "asset": "RAREPEPELORE",
+    "image": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/RAREPEPELORE_thumb.png",
     "name": "RAREPEPELORE",
     "pgpsig": "subterranean",
     "description": "Official Rare Pepe Lore Lesson™ Card",
-    "images": [
-        {
-            "type": "icon",
-            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/RAREPEPELORE%20thumb.jpg"
-        },
-        {
-            "type": "large",
-            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/RAREPEPELORE.jpg"
-        }      
-    ],
+    "image_large": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/RAREPEPELORE.jpg",
     "social": [
         {
             "type": "X",
