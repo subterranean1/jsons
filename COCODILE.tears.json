@@ -4,7 +4,6 @@
     "name": "COCODILE.tears",
     "pgpsig": "subterranean",
     "description": "Big Cocos Don't Cry",
-    "image_large": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/S03%20C15%20-%20COCODILE.tears.png",
     "social": [
         {
             "type": "X",
@@ -14,5 +13,6 @@
             "type": "Linktree",
             "data": "https://linktr.ee/subterranean1"
         }
-    ]
+    ],
+    "image_large": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/S03%20C15%20-%20COCODILE.tears.png"
 }
