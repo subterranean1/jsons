@@ -1,22 +1,18 @@
 {
     "asset": "COCODILE.tears",
+    "image": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/COCODILE.tears_thumb.png",
     "name": "COCODILE.tears",
     "pgpsig": "subterranean",
     "description": "Big Cocos Don't Cry",
-    "images": [
-        {
-            "type": "icon",
-            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/COCODILE.tears_thumb.png"
-        },
-        {
-            "type": "large",
-            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/S03%20C15%20-%20COCODILE.tears.png"
-        }
-    ],
+    "image_large": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/S03%20C15%20-%20COCODILE.tears.png",
     "social": [
         {
             "type": "X",
             "data": "https://x.com/subterranean_1"
+        },
+        {
+            "type": "Linktree",
+            "data": "https://linktr.ee/subterranean1"
         }
     ]
 }
