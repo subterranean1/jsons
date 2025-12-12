@@ -1,0 +1,18 @@
+{
+    "asset": "RAREPEPELORE",
+    "image": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/RAREPEPELORE%20thumb.jpg",
+    "name": "COCODILE.tears",
+    "pgpsig": "subterranean",
+    "description": "In Lore We Trust",
+    "social": [
+        {
+            "type": "X",
+            "data": "https://x.com/subterranean_1"
+        },
+        {
+            "type": "Linktree",
+            "data": "https://linktr.ee/subterranean1"
+        }
+    ],
+    "image_large": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/RAREPEPELORE.jpg"
+}
