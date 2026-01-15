@@ -1,0 +1,18 @@
+{
+    "asset": "BITCORNKING",
+    "image": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/BITCORNKINGthumb.png",
+    "name": "BITCORNKING",
+    "pgpsig": "subterranean",
+    "description": "Dedicated to Dan - the King of Corn",
+    "social": [
+        {
+            "type": "X",
+            "data": "https://x.com/subterranean_1"
+        },
+        {
+            "type": "Linktree",
+            "data": "https://linktr.ee/subterranean1"
+        }
+    ],
+    "image_large": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/BITCORNKING.gif"
+}
