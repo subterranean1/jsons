@@ -1,18 +1,11 @@
 {
-    "asset": "BITCORNKING",
-    "image": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/BITCORNKINGthumb.png",
-    "name": "BITCORNKING",
-    "pgpsig": "subterranean",
-    "description": "Dedicated to Dan - the King of Corn",
-    "social": [
-        {
-            "type": "X",
-            "data": "https://x.com/subterranean_1"
-        },
-        {
-            "type": "Linktree",
-            "data": "https://linktr.ee/subterranean1"
-        }
-    ],
-    "image_large": "https://arweave.net/pgMWnwXGf0C2CZLqW5A_-RA4kMASu0clbZGpAXJehc4"
+  "asset": "BITCORNKING",
+  "name": "BITCORNKING",
+  "image": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/BITCORNKINGthumb.png",
+  "description": "<iframe src='https://arweave.net/pgMWnwXGf0C2CZLqW5A_-RA4kMASu0clbZGpAXJehc4' width='100%' height='520' frameborder='0'></iframe><br/>Dedicated to Dan - the King of Corn",
+  "pgpsig": "subterranean",
+  "social": [
+    { "type": "X", "data": "https://x.com/subterranean_1" },
+    { "type": "Linktree", "data": "https://linktr.ee/subterranean1" }
+  ]
 }
