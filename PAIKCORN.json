@@ -1,0 +1,18 @@
+{
+    "asset": "PAIKCORN",
+    "image": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/PAIKCORN_thumb.png",
+    "name": "PAIKCORN",
+    "pgpsig": "Amy DiGi",
+    "description": " Nam June Paik was a Korean-American video artist and was known as the “father of video art”. In 1964 he exhibited Robot K-456 in the Second Annual Avant-Garde Festival of New York. This 20-channel remote-controlled robot could walk, play a recording of President John F. Kennedy’s famous speech and its bottom dropped peas as if defecating.",
+    "social": [
+        {
+            "type": "X",
+            "data": "https://x.com/AmyDiGi"
+        },
+        {
+            "type": "Linktree",
+            "data": "https://linktr.ee/AmyDiGi"
+        }
+    ],
+    "image_large": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/PAIKCORN.png"
+}
