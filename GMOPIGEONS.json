@@ -1,0 +1,12 @@
+{
+  "asset": "GMOPIGEONS",
+  "name": "GMOPIGEONS",
+  "image": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/GMOPIGEONS_thumb.jpg",
+  "image_large": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/GMOPIGEONS.jpg",
+  "description": "Splicing genes to create a new animal is called creating a transgenic animal, a type of genetically modified organism (GMO), achieved through genetic engineering or recombinant DNA technology. Here we present the wistful Woj-Head Pigeon and the rarest pigeon – the Peard.",
+  "pgpsig": "subterranean",
+  "social": [
+    { "type": "X", "data": "https://x.com/subterranean_1" },
+    { "type": "Linktree", "data": "https://linktr.ee/subterranean1" }
+  ]
+}
