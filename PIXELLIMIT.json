@@ -1,0 +1,12 @@
+{
+  "asset": "PIXELLIMIT",
+  "name": "PIXELLIMIT",
+  "image": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/PIXELLIMIT_Thumb.png",
+  "image_large": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/PIXELLIMIT%20copy.jpg",
+  "description": "Hard limits. Hard art. That’s a feature, not a bug.",
+  "pgpsig": "subterranean",
+  "social": [
+    { "type": "X", "data": "https://x.com/subterranean_1" },
+    { "type": "Linktree", "data": "https://linktr.ee/subterranean1" }
+  ]
+}
