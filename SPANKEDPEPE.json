@@ -1,0 +1,12 @@
+{
+  "asset": "SPANKEDPEPE",
+  "name": "SPANKEDPEPE",
+  "image": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/SPANKEDPEPE_Thumb.png",
+  "image_large": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/SPANKEDPEPE.jpg",
+  "description": "Happy 10th Birthday Rare Pepe!",
+  "pgpsig": "Amy DiGi",
+  "social": [
+    { "type": "X", "data": "https://x.com/AmyDiGi" },
+    { "type": "Website", "data": "https://amydigi.com/" }
+  ]
+}
