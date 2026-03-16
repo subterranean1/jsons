@@ -3,7 +3,7 @@
     "image": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/THISGOAT_THUMB.png",
     "name": "THISGOAT",
     "pgpsig": "subterranean",
-    "description": "<video draggable=\"false\" controls playsinline autoplay loop muted class=\"img-fluid img-responsive\" width=\"100%\" style=\"max-width:400px\"><source type=\"video/mp4\" src=\"https://arweave.net/IplbOcJZPPYWad61kZpymUZl_hxG9Qx5QOxEMYbqNXQ/thisgoat.mp4\"></video><br />",
+    "description": "<video draggable=\"false\" controls playsinline autoplay loop muted class=\"img-fluid img-responsive\" width=\"100%\" style=\"max-width:400px\"><source type=\"video/mp4\" src=\"https://gateway.ar.io/IplbOcJZPPYWad61kZpymUZl_hxG9Qx5QOxEMYbqNXQ/thisgoat.mp4\"></video><br />",
     "social": [
         {
             "type": "X",
@@ -15,5 +15,5 @@
         }
     ],
     "image_large": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/THISGOAT_orig.png",
-    "video": "https://arweave.net/IplbOcJZPPYWad61kZpymUZl_hxG9Qx5QOxEMYbqNXQ/thisgoat.mp4"
+    "video": "https://gateway.ar.io/IplbOcJZPPYWad61kZpymUZl_hxG9Qx5QOxEMYbqNXQ/thisgoat.mp4"
 }
