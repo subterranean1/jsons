@@ -1,10 +1,19 @@
 {
     "asset": "RAREPEPELORE",
-    "image": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/RAREPEPELORE_thumb.png",
     "name": "RAREPEPELORE",
     "pgpsig": "subterranean",
     "description": "In Lore We Trust",
-    "social": [
+"images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/RAREPEPELORE_thumb.png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/RAREPEPELORE.jpg"
+    }
+   ],
+   "social": [
         {
             "type": "X",
             "data": "https://x.com/subterranean_1"
@@ -15,4 +24,4 @@
         }
     ],
     "image_large": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/RAREPEPELORE.jpg"
-}
+}  
