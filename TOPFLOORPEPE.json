@@ -1,0 +1,22 @@
+{
+  "asset": "TOPFLOORPEPE",
+  "name": "AKA Penthouse Pepe",
+  "pgpsig": "Community Card",
+  "description": "Come to the party, grab a Sharpie, make your mark.",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/TOPFLOORPEPE_Thumb.png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/TOPFLOORPEPE_Token.jpg"
+    }
+  ],
+  "social": [
+    {
+      "type": "twitter",
+      "data": "https://x.com/subterranean_1"
+}
+  ]
+}
