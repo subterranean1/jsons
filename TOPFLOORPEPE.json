@@ -5,7 +5,7 @@
   "description": "Come to the party, grab a Sharpie, make your mark.",
   "images": [
     {
-      "type": "icon",
+      "type": "image",
       "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/TOPFLOORPEPE_Thumb.png"
     },
     {
