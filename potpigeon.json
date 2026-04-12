@@ -1,0 +1,20 @@
+{
+    "asset": "POTPIGEON",
+    "name": "POTPIGEON",
+    "pgpsig": "subterranean",
+    "description": "Puff, puff, pass.",
+    "images": [
+        {
+            "type": "icon",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/POTPIGEON_thumb.png"
+        },
+        {
+            "type": "large",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/POTPIGEON.gif"
+        }
+    ],
+    "social": [
+    { "type": "X", "data": "https://x.com/subterranean_1" },
+    { "type": "Linktree", "data": "https://linktr.ee/subterranean1" }
+  ]
+}
