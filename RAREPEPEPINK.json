@@ -1,0 +1,32 @@
+{
+    "asset": "RAREPEPEPINK",
+    "name": "RAREPEPEPINK",
+    "pgpsig": "subterranean",
+    "description": "I've been thinking about a tweet Nardo made last June about the RAREPEPE Image a lot lately. Tonight I sat down and did something about it The Tweet: https://x.com/PepenardoStudio/status/1932912083815051286",
+    "images": [
+        {
+            "type": "icon",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/RAREPEPEPINK_THUMB.png"
+        },
+        {
+            "type": "large",
+            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/RAREPEPEPINK.jpg"
+        },
+
+{
+        "type": "Nardo's Tweet",
+        "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/NARDO%20on%20X_%20_Traces%20of%20dark%20pink%20around%20RAREPEPE%E2%80%99s%20border%20suggest%20w_%20-%20%5Bx.com%5D.png"
+    }
+
+],
+     "social": [
+        {
+            "type": "X",
+            "data": "https://x.com/subterranean_1"
+        },
+        {
+            "type": "Linktree",
+            "data": "https://linktr.ee/subterranean1"
+        }
+    ]
+}
