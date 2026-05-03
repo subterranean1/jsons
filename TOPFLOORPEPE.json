@@ -1,22 +1,11 @@
 {
   "asset": "TOPFLOORPEPE",
+  "image": "https://raw.githubusercontent.com/subterranean1/images/main/TOPFLOORPEPE_THUMB.png",
   "name": "AKA Penthouse Pepe",
   "pgpsig": "Community Card",
   "description": "Hand-drawn by 20+ artists on 27 April 2026 in Las Vegas at the Rare Pepe Penthouse Party celebrating the 10 year anniversary of Rare Pepes. Hosted by Bobby Zoo, Burn, Denim_Dee, and Subterranean",
-  "images": [
-    {
-      "type": "image",
-      "data": "https://raw.githubusercontent.com/subterranean1/images/main/TOPFLOORPEPE_THUMB.png"
-    },
-    {
-      "type": "large",
-      "data": "https://raw.githubusercontent.com/subterranean1/images/main/TOPFLOORPEPE.jpg"
-    },
-    {
-      "type": "image_large_hd",
-      "data": "https://cdn.jsdelivr.net/gh/subterranean1/images@main/TOPFLOORPEPE_HIRES.jpg"
-    }
-  ],
+  "image_large": "https://raw.githubusercontent.com/subterranean1/images/main/TOPFLOORPEPE.jpg",
+  "image_large_hd": "https://cdn.jsdelivr.net/gh/subterranean1/images@main/TOPFLOORPEPE_HIRES.jpg",
   "social": [
     {
       "type": "X",
