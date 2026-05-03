@@ -6,11 +6,15 @@
   "images": [
     {
       "type": "image",
-      "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/TOPFLOORPEPE_THUMB.png"
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/TOPFLOORPEPE_THUMB.png"
     },
     {
       "type": "large",
-      "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/TOPFLOORPEPE.jpg"
+      "data": "https://raw.githubusercontent.com/subterranean1/images/main/TOPFLOORPEPE.jpg"
+    },
+    {
+      "type": "image_large_hd",
+      "data": "https://cdn.jsdelivr.net/gh/subterranean1/images@main/TOPFLOORPEPE_HIRES.jpg"
     }
   ],
   "social": [
