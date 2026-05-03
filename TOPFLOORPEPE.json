@@ -2,21 +2,33 @@
   "asset": "TOPFLOORPEPE",
   "name": "AKA Penthouse Pepe",
   "pgpsig": "Community Card",
-  "description": "Come to the party, grab a Sharpie, make your mark.",
+  "description": "Hand-drawn by 20+ artists on 27 April 2026 in Las Vegas at the Rare Pepe Penthouse Party celebrating the 10 year anniversary of Rare Pepes. Hosted by Bobby Zoo, Burn, Denim_Dee, and Subterranean",
   "images": [
     {
       "type": "image",
-      "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/TOPFLOORPEPE_Thumb.png"
+      "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/TOPFLOORPEPE_THUMB.png"
     },
     {
       "type": "large",
-      "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/TOPFLOORPEPE_Token.jpg"
+      "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/TOPFLOORPEPE.jpg"
     }
   ],
   "social": [
     {
-      "type": "twitter",
+      "type": "X",
+      "data": "https://x.com/BobbyZoo_BA"
+    },
+    {
+      "type": "X",
+      "data": "https://x.com/1burntoutop"
+    },
+    {
+      "type": "X",
+      "data": "https://x.com/DenimDolphin888"
+    },
+    {
+      "type": "X",
       "data": "https://x.com/subterranean_1"
-}
+    }
   ]
 }
