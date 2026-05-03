@@ -1,7 +1,7 @@
 {
   "asset": "PEPELETTER",
   "name": "PEPELETTER",
-  "image": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/PEPELETTER_Thumb.png",
+  "icon": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/PEPELETTER_Thumb.png",
   "image_large": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/PEPELETTER.jpg",
   "description": "A Letter from the Scientists",
   "pgpsig": "subterranean",
