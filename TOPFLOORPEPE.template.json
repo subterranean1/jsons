@@ -1,0 +1,18 @@
+{
+    "asset": "TOPFLOORPEPE.template",
+    "image": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/TOPFLOORPEPE_Thumb.png",
+    "name": "TOPFLOORPEPE.template",
+    "pgpsig": "subterranean",
+    "description": "Template turned 24" x 36" Physical and used to create TOPFLOORPEPE during the Rare Pepe Penthouse Party held on 27 April 2026",
+    "social": [
+        {
+            "type": "X",
+            "data": "https://x.com/subterranean_1"
+        },
+        {
+            "type": "Linktree",
+            "data": "https://linktr.ee/subterranean1"
+        }
+    ],
+    "image_large": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/TOPFLOORPEPE_BLANK.jpg"
+}
