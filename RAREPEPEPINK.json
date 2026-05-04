@@ -1,13 +1,10 @@
 {
     "asset": "RAREPEPEPINK",
+    "icon": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/RAREPEPEPINK_THUMB.png",
     "name": "RAREPEPEPINK",
     "pgpsig": "subterranean",
     "description": "When Nardo Tweets, people listen. Lately, I've been obsessed with one he posted in June 2025. Tonight I sat down and did something about it. Introducing RAREPEPEPINK. The Tweet: https://x.com/PepenardoStudio/status/1932912083815051286",
     "images": [
-        {
-            "type": "icon",
-            "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/RAREPEPEPINK_THUMB.png"
-        },
         {
             "type": "large",
             "data": "https://raw.githubusercontent.com/subterranean1/images/refs/heads/main/RAREPEPEPINK.jpg"
