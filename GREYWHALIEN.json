@@ -1,0 +1,18 @@
+{
+    "asset": "GREYWHALIEN",
+    "icon": "https://raw.githubusercontent.com/subterranean1/images/main/GREYWHALIEN_THUMB.png",
+    "image_large": "https://raw.githubusercontent.com/subterranean1/images/main/GREYWHALIEN.gif",
+    "name": "GREYWHALIEN",
+    "pgpsig": "subterranean",
+    "description": "According to retired U.S. Navy Rear Admiral Tim Gallaudet \"If there were any extraterrestrial visitors that did not want to be seen, this is where they'd hide.\"",
+        "social": [
+        {
+            "type": "X",
+            "data": "https://x.com/subterranean_1"
+        },
+        {
+            "type": "Linktree",
+            "data": "https://linktr.ee/subterranean1"
+        }
+    ]
+}
